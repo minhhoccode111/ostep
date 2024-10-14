@@ -8,6 +8,14 @@
 
 ### [Book Projects](https://github.com/remzi-arpacidusseau/ostep-projects)
 
+### How to use this repo
+
+- Each folder usually a chapter (e.g., `cpu_api`)
+- I read the chapter's content (e.g., `cpu_api.pdf`)
+- I take notes to `README_notes.md`
+- I learn more about the chapter's code example with `README_code.md`
+- I do chapter's homework with `README_homework.md` (both `simulation` and `coding`)
+
 ## Virtualization
 
 How the OS abstracts and manages hardware resources to create the illusion of separate processes.

@@ -1,0 +1,281 @@
+
+ARG seed 5
+ARG fork_percentage 0.1
+ARG actions 100
+ARG action_list 
+ARG show_tree False
+ARG just_final False
+ARG leaf_only False
+ARG local_reparent False
+ARG print_style fancy
+ARG solve True
+
+                           Process Tree:
+                               a
+
+Action: a forks b
+                               a
+                               └── b
+Action: b EXITS
+                               a
+Action: a forks c
+                               a
+                               └── c
+Action: c EXITS
+                               a
+Action: a forks d
+                               a
+                               └── d
+Action: d EXITS
+                               a
+Action: a forks e
+                               a
+                               └── e
+Action: e EXITS
+                               a
+Action: a forks f
+                               a
+                               └── f
+Action: f EXITS
+                               a
+Action: a forks g
+                               a
+                               └── g
+Action: g EXITS
+                               a
+Action: a forks h
+                               a
+                               └── h
+Action: a forks i
+                               a
+                               ├── h
+                               └── i
+Action: i EXITS
+                               a
+                               └── h
+Action: h EXITS
+                               a
+Action: a forks j
+                               a
+                               └── j
+Action: j EXITS
+                               a
+Action: a forks k
+                               a
+                               └── k
+Action: a forks l
+                               a
+                               ├── k
+                               └── l
+Action: l EXITS
+                               a
+                               └── k
+Action: k EXITS
+                               a
+Action: a forks m
+                               a
+                               └── m
+Action: m EXITS
+                               a
+Action: a forks n
+                               a
+                               └── n
+Action: n EXITS
+                               a
+Action: a forks o
+                               a
+                               └── o
+Action: o EXITS
+                               a
+Action: a forks p
+                               a
+                               └── p
+Action: p EXITS
+                               a
+Action: a forks q
+                               a
+                               └── q
+Action: q EXITS
+                               a
+Action: a forks r
+                               a
+                               └── r
+Action: r EXITS
+                               a
+Action: a forks s
+                               a
+                               └── s
+Action: s EXITS
+                               a
+Action: a forks t
+                               a
+                               └── t
+Action: t EXITS
+                               a
+Action: a forks u
+                               a
+                               └── u
+Action: u EXITS
+                               a
+Action: a forks v
+                               a
+                               └── v
+Action: v EXITS
+                               a
+Action: a forks w
+                               a
+                               └── w
+Action: w EXITS
+                               a
+Action: a forks x
+                               a
+                               └── x
+Action: x EXITS
+                               a
+Action: a forks y
+                               a
+                               └── y
+Action: a forks z
+                               a
+                               ├── y
+                               └── z
+Action: y EXITS
+                               a
+                               └── z
+Action: z EXITS
+                               a
+Action: a forks A
+                               a
+                               └── A
+Action: a forks B
+                               a
+                               ├── A
+                               └── B
+Action: B EXITS
+                               a
+                               └── A
+Action: A EXITS
+                               a
+Action: a forks C
+                               a
+                               └── C
+Action: C EXITS
+                               a
+Action: a forks D
+                               a
+                               └── D
+Action: D EXITS
+                               a
+Action: a forks E
+                               a
+                               └── E
+Action: E EXITS
+                               a
+Action: a forks F
+                               a
+                               └── F
+Action: F forks G
+                               a
+                               └── F
+                                   └── G
+Action: F EXITS
+                               a
+                               └── G
+Action: G EXITS
+                               a
+Action: a forks H
+                               a
+                               └── H
+Action: H EXITS
+                               a
+Action: a forks I
+                               a
+                               └── I
+Action: I EXITS
+                               a
+Action: a forks J
+                               a
+                               └── J
+Action: J EXITS
+                               a
+Action: a forks K
+                               a
+                               └── K
+Action: K EXITS
+                               a
+Action: a forks L
+                               a
+                               └── L
+Action: L EXITS
+                               a
+Action: a forks M
+                               a
+                               └── M
+Action: M forks N
+                               a
+                               └── M
+                                   └── N
+Action: N EXITS
+                               a
+                               └── M
+Action: M EXITS
+                               a
+Action: a forks O
+                               a
+                               └── O
+Action: O forks P
+                               a
+                               └── O
+                                   └── P
+Action: P EXITS
+                               a
+                               └── O
+Action: O EXITS
+                               a
+Action: a forks Q
+                               a
+                               └── Q
+Action: Q EXITS
+                               a
+Action: a forks R
+                               a
+                               └── R
+Action: R EXITS
+                               a
+Action: a forks S
+                               a
+                               └── S
+Action: S EXITS
+                               a
+Action: a forks T
+                               a
+                               └── T
+Action: T EXITS
+                               a
+Action: a forks U
+                               a
+                               └── U
+Action: U EXITS
+                               a
+Action: a forks V
+                               a
+                               └── V
+Action: V EXITS
+                               a
+Action: a forks W
+                               a
+                               └── W
+Action: W EXITS
+                               a
+Action: a forks X
+                               a
+                               └── X
+Action: a forks Y
+                               a
+                               ├── X
+                               └── Y
+Action: X EXITS
+                               a
+                               └── Y
+Action: Y EXITS
+                               a
