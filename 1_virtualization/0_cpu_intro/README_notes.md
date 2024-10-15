@@ -1,5 +1,7 @@
 # CPU Intro
 
+Provides an introduction to central processing units (CPUs), covering their history, basic structure, and fundamental operation in computing systems
+
 - Process: is a running program
 - Virtualizing: to create a illusion of many CPUs
 - Time sharing: allows users to run as many concurrent processes as they would like; the potential cost is performance, as each will run more slowly if the CPU(s) must be shared

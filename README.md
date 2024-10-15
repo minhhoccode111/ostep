@@ -1,20 +1,21 @@
 # Operating Systems: Three Easy Pieces Book
 
-### [Book Content](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+### [Book's Website](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-### [Book Source Code](https://github.com/remzi-arpacidusseau/ostep-code)
+### [Source Code Repo](https://github.com/remzi-arpacidusseau/ostep-code)
 
-### [Book Homework](https://github.com/remzi-arpacidusseau/ostep-homework/)
+### [Homework Repo](https://github.com/remzi-arpacidusseau/ostep-homework/)
 
-### [Book Projects](https://github.com/remzi-arpacidusseau/ostep-projects)
+### [Projects Repo](https://github.com/remzi-arpacidusseau/ostep-projects)
 
 ### How to use this repo
 
-- Each folder usually a chapter (e.g., `cpu_api`)
-- I read the chapter's content (e.g., `cpu_api.pdf`)
-- I take notes to `README_notes.md`
-- I learn more about the chapter's code example with `README_code.md`
-- I do chapter's homework with `README_homework.md` (both `simulation` and `coding`)
+Each folder, like `cpu_api/`, typically corresponds to a chapter which has
+
+- `cpu_api.pdf`: chapter's content
+- `README_notes.md`: my notes about the lesson
+- `README_code.md`: chapter's code examples
+- `README_homework.md`: chapter's homework
 
 ## Virtualization
 
