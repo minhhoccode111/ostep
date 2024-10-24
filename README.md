@@ -13,7 +13,7 @@
 Each folder, like `cpu_api/`, typically corresponds to a chapter which has
 
 - `cpu_api.pdf`: chapter's content
-- `README_notes.md`: my notes about the lesson
+- `README.md`: my notes about the lesson
 - `README_code.md`: chapter's code examples
 - `README_homework.md`: chapter's homework
 

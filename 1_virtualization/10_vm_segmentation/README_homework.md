@@ -182,6 +182,8 @@ Enjoy!
 
 ## Questions
 
+<!-- TODO: do homeworks -->
+
 1. First, let’s use a tiny address space to translate some addresses. Here’s a simple set of parameters with a few different random seeds; can you translate the addresses?
 
 ```bash
